@@ -1,6 +1,6 @@
 ### 1.LangSmith自检
 
-![image-20260914221257067](C:\Users\蔡锦鸿\Desktop\deepagent\image\langsmith.png)
+![image-20260914221257067](./image/langsmith.png)
 
 ### 2.agentseek
 
